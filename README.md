@@ -155,7 +155,7 @@ To run the example included in this repository, follow these steps:
 
 That’s it! You should now see the PostMessageServer and PostMessageClient in action, facilitating communication between the main page and the iframe.
 
-### License
+## License
 
 - This project is licensed under the MIT License. See the LICENSE file for details.
 - Feel free to open issues or pull requests for any bugs or enhancements. Enjoy using iframe-bridge-for-msa!
