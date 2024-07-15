@@ -1,0 +1,34 @@
+{
+  "name": "iframe-bridge-for-msa",
+  "version": "1.0.0",
+  "description": "A lightweight library for facilitating communication between a main page and an iframe using the postMessage API.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hoisharka/iframe-bridge-for-msa.git"
+  },
+  "keywords": [
+    "iframe",
+    "postMessage",
+    "communication",
+    "msa"
+  ],
+  "author": "hoisharka",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.14.10",
+    "@types/uuid": "^10.0.0",
+    "prettier": "^3.3.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "uuid": "^10.0.0",
+    "vite": "^5.3.3"
+  }
+}
